@@ -86,7 +86,7 @@ Obi's play in the modular space. Unlike most other modular solutions, Obi accoun
 
 ### Owner
 
-The address or public key (preferably a ) which is the ultimate owner of the user smart account; the user. The owner is the only signer authorized to take admin actions such as updating the account, updating the owner, and adding abstraction rules.
+The address or public key (preferably a [seedless-multikey](other-features/seedless-multikey/ "mention")) which is the ultimate owner of the user smart account; the user. The owner is the only signer authorized to take admin actions such as updating the account, updating the owner, and adding abstraction rules.
 
 ### Paymaster
 
