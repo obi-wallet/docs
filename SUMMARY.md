@@ -5,10 +5,10 @@
 
 ## What is Obi?
 
-* [🔍 What is Obi? Features Overview](what-is-obi/what-is-obi-features-overview.md)
-* [🥇 Obi's Unique Advantages](what-is-obi/obis-unique-advantages.md)
+* [🔍 What is Obi?](what-is-obi/what-is-obi-features-overview.md)
 * [🧩 Obi Stack Overview](what-is-obi/obi-stack-overview.md)
 * [🚆 Non-Custodial Fast Travel](what-is-obi/non-custodial-fast-travel.md)
+* [🥇 Obi's Unique Advantages](what-is-obi/obis-unique-advantages.md)
 
 ## Important Concepts
 

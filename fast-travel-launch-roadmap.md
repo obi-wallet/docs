@@ -4,15 +4,15 @@ description: A safe but rapid rollout of production features, happening now!
 
 # ⚡ Fast Travel Launch Roadmap
 
-Fast Travel lets you teleport assets in your very own non-custodial fast travel tunnels with MEV shielding.
+Fast Travel lets you teleport assets in your very own non-custodial [fast travel tunnels](glossary.md#fast-travel-tunnel).
 
 Meaning:
 
-* you start with what you have,
+* you start with whatever you have,
 * in 2 clicks you get what you want, and
-* nobody can frontrun you or take it from you along the way.
+* nobody can take it from you along the way.
 
-This magic is made possible through [Obi Accounts](broken-reference), the first on-chain, gasless, all-chain recoverable smart account. But you're here for Fast Travel, and here's what's rolling out over the coming weeks:
+This magic is made possible through [Obi Accounts](broken-reference), the first on-chain, [gasless](glossary.md#gasless-mpc), all-chain recoverable smart accounts. For Fast Travel specifically, here's what's rolling out over the coming weeks:
 
 ### 2023&#x20;
 
