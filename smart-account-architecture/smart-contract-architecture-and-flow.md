@@ -20,6 +20,13 @@ Gatekeeper logic contracts include:
 * `gatekeeper_message` (allow/block/delay listing for specified actors and/or contracts and/or message contents)
 * `gatekeeper_spendlimit` (allowances, budgets, inheritance)
 
+Upcoming logic contracts include the following logic, which is currently included directly in `user_account`:
+
+* EVM transaction/user operation parser
+* Cosmos message parser
+
+Message parsing is not required for all Obi features – chains without message parsing support can still include updatable Multikey ownership, unrestricted session keys, and final recovery/inheritance. However, the enforcement of spendlimits, allow/block lists, etc. requires message inspection by the contract in order to determine whether an existing [abstraction rule ](../glossary.md#abstraction-rule)allows the transaction.
+
 In some implementations, `gatekeeper_spendlimit` interacts with an Asset Unifier contract, which in turn uses a Token/LP Asset Registry. This way, debt and spend limits can be denominated in a single asset, currently USD. For now, this is under centralized control using vetted lists of contract addresses, but control can eventually be transferred to governance, and users can add or block specific entries.
 
 When signing for a [_target chain_](../glossary.md) (not the home chain), the _actor_ does not directly interact with `user_entry`. Instead, the actor calls `Sign` on the [_threshold signer contract_](../glossary.md) and includes:
