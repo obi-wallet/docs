@@ -6,9 +6,9 @@ Permissions can be extended to pre-authorize intents, creating one-click product
 
 Depending on your experience with technologies, Obi can be thought of as:
 
-🧩 a [**modular accounts blockchain**](important-concepts/glossary.md.md) which quietly integrates with all chains, without requiring backend integration work or cross-chain messaging
+🧩 a [**modular accounts blockchain**](glossary.md) which quietly integrates with all chains, without requiring backend integration work or cross-chain messaging
 
-🛠️ a robust **all-chain permission system,** allowing existing use cases such as spend limits, inheritance, subscriptions, budgets, session keys, gasless [MEV-shielded cross-chain intents](important-concepts/glossary.md.md), and purpose-bound "worker addresses" – in addition to new use cases not yet deployed
+🛠️ a robust **all-chain permission system,** allowing existing use cases such as spend limits, inheritance, subscriptions, budgets, session keys, gasless [MEV-shielded cross-chain intents](glossary.md), and purpose-bound "worker addresses" – in addition to new use cases not yet deployed
 
 🔑 a near-zero-latency gasless **MPC helper network** – like a Ledger hardware wallet adding to your security, but as a network – where even nodes, downtime, or secure hardware vulnerabilities do not jeopardize user funds or access
 

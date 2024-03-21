@@ -12,7 +12,6 @@
 
 ## Important Concepts
 
-* [‼️ glossary.md](important-concepts/glossary.md.md)
 * [🔍 Account Abstraction](important-concepts/account-abstraction.md)
 * [🗝️ Non/Semi-Custodial](important-concepts/non-semi-custodial.md)
 * [♻️ Multi-Party Computation](important-concepts/multi-party-computation.md)
@@ -65,3 +64,7 @@
   * [Major 2 Key Loss Vectors and Mitigations](appendices/multikey-attack-and-loss-vectors/major-2-key-loss-vectors-and-mitigations.md)
   * [Major 2 Key Attack Vectors and Mitigations](appendices/multikey-attack-and-loss-vectors/major-2-key-attack-vectors-and-mitigations.md)
   * [“Unlocked Obi Theft” Attack](appendices/multikey-attack-and-loss-vectors/unlocked-obi-theft-attack.md)
+
+***
+
+* [‼️ glossary](glossary.md)
