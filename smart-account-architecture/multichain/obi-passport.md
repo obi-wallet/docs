@@ -36,7 +36,7 @@ This covers the following cases:
 
 #### **Version 2**
 
-The second version of Obi Passport adds an **additional network** which does not rely on the same secure hardware. This provides additional resilience against network downtime or failure or trusted execution environment exploits, even in the inheritance case. This second network holds a new $k\_{5}$ and is able to provide $sig\_{k5}$. Unlike Version 1, there are 2 network shares available.
+The second version of Obi Passport adds an **additional network**. This provides additional resilience against network downtime or failure or trusted execution environment exploits, even in the inheritance case. This second network holds a new $k\_{5}$ and is able to provide $sig\_{k5}$. Unlike Version 1, there are 2 network shares available.
 
 Additionally, to enable inheritance of Obi Passport keys, encrypted versions of $k\_1$ are stored in contract state (on both networks) and are retrievable, but are each encrypted by one of the beneficiaries’ pubkeys, or by the user’s pubkey. When any beneficiary is added later, $k\_1$ will also be stored for them, encrypted by the new beneficiary’s pubkey.
 

@@ -98,7 +98,7 @@ Enabling a "one-click login experience" that can still protect the user from des
 
 ### Signer
 
-A special smart contract which can finalize signatures for transactions, regardless of their [target chain](glossary.md#target-chain), if and only if they are allowed to be signed by some [abstraction rule](glossary.md#abstraction-rule), or they are signed by the full [owner](glossary.md#owner) of the user account. The finalization is the final round of threshold [MPC](important-concepts/multi-party-computation.md) signing. A threshold signer has access – in a secure, isolated Intel SGX hardware environment – to a single share of a user's [target](glossary.md#target-account) private key.
+A special smart contract which can finalize signatures for transactions, regardless of their [target chain](glossary.md#target-chain), if and only if they are allowed to be signed by some [abstraction rule](glossary.md#abstraction-rule), or they are signed by the full [owner](glossary.md#owner) of the user account. The finalization is the final round of threshold [MPC](broken-reference) signing. A threshold signer has access – in a secure, isolated Intel SGX hardware environment – to a single share of a user's [target](glossary.md#target-account) private key.
 
 ### Smart Account
 

@@ -10,12 +10,6 @@
 * [🚆 Non-Custodial Fast Travel](what-is-obi/non-custodial-fast-travel.md)
 * [🥇 Obi's Unique Advantages](what-is-obi/obis-unique-advantages.md)
 
-## Important Concepts
-
-* [🔍 Account Abstraction](important-concepts/account-abstraction.md)
-* [🗝️ Non/Semi-Custodial](important-concepts/non-semi-custodial.md)
-* [♻️ Multi-Party Computation](important-concepts/multi-party-computation.md)
-
 ## Smart Account Architecture
 
 * [📜 Smart Account Design Philosophy](smart-account-architecture/smart-account-design-philosophy.md)
@@ -33,12 +27,9 @@
 
 * [🔐 Seedless Multikey](other-features/seedless-multikey/README.md)
   * [🎣 Preventing Phishing](other-features/seedless-multikey/preventing-phishing.md)
-  * [🕵️‍♂️ Preventing MitM/Supply Chain Attacks](other-features/seedless-multikey/preventing-mitm-supply-chain-attacks.md)
   * [📲 SMS and Other Web2 Providers](other-features/seedless-multikey/sms-and-other-web2-providers.md)
   * [💕 Final Recovery](other-features/seedless-multikey/final-recovery.md)
 * [⛽ Gasless UX](other-features/gasless-ux.md)
-* [🔌 Obi SDK](other-features/obi-sdk/README.md)
-  * [@obi-wallet/sdk notes](other-features/obi-sdk/obi-wallet-sdk-notes.md)
 
 ## Roadmap Features
 

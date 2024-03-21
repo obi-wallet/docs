@@ -2,7 +2,7 @@
 
 Users of digital assets and identities suffer from constant vulnerability to phishing attacks, wherein they are prompted to connect their identity to a malicious website.
 
-Obi Accounts provide several phishing protections to users, including threshold escalation and the [Global Transaction Limit (Sanity Limit)](https://www.notion.so/Global-Transaction-Limit-Sanity-Limit-2d01992ae0c048c9809c6294e94e2a8c?pvs=21).
+Obi Accounts provide several phishing protections to users, including threshold escalation.
 
 #### Case 1: Spend-Limited Usage
 
@@ -24,5 +24,4 @@ Now, the session key can take any action on a connected website. This is not as 
 
 * the website cannot try to create new permissions or modify existing permissions
 * the website cannot speed up transactions which match a mandatory delay filter
-* the website cannot exceed the set [Global Transaction Limit (Sanity Limit)](https://www.notion.so/Global-Transaction-Limit-Sanity-Limit-2d01992ae0c048c9809c6294e94e2a8c?pvs=21) for known assets
 * the website cannot update the account’s owner

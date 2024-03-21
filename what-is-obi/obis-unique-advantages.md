@@ -10,7 +10,7 @@ Obi accounts are automatically available on EVM chains (with the same user addre
 
 ### Abstraction Standard Agnostic: Obi abstraction works together with abstraction standards such as ERC-4337 – and also works without any native smart contract support, on chains such as Bitcoin and Atom.
 
-Thanks to Obi Accounts applying abstraction rules and verification at the [signature finalization](../glossary.md#signer) step, rather than at the on-chain verification step, smart accounts can operate on any chain with a supported encryption algorithm. This even includes Bitcoin, Atom (without CosmWasm support), and any other chain which operates with [EOA](../glossary.md#eoa)s or SCAs.
+Thanks to Obi Accounts applying abstraction rules and verification at the [signature finalization](../glossary.md#signer) step, rather than at the on-chain verification step, smart accounts can operate on any chain with a supported encryption algorithm. This even includes Bitcoin, Cosmos Hub (ATOM, without CosmWasm support), and any other chain which operates with [EOA](../glossary.md#eoa)s or SCAs.
 
 Future chains are automatically supported without the user needing to do any additional deployment or upgrading.
 
