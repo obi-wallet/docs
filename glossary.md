@@ -90,7 +90,7 @@ The service and account which covers fees for user transactions on EVM chains.
 
 ### Sessionkey
 
-A temporary authorization to transact until the expiration time is reached. A sessionkey can destroy itself or can be destroyed by the owner at any time. The sessionkey can be limited by any other kinds of limitations, such as spend limits, message restrictions, contract address restrictions, and more. The "sessionkey rule" is an abstraction itself; it is expressed in code by attaching an `expiration` to some other kind of rule. An admin-level sessionkey is simply an unrestricted Allow List (`actor` matching only) with an `expiration` attached.
+Enabling a "one-click login experience" that can still protect the user from destructive or accidental actions, a sessionkey is a temporary authorization to transact until the expiration time is reached. A sessionkey can destroy itself or can be destroyed by the owner at any time. The sessionkey can be limited by any other kinds of limitations, such as spend limits, message restrictions, contract address restrictions, and more. The "sessionkey rule" is an abstraction itself; it is expressed in code by attaching an `expiration` to some other kind of rule. An admin-level sessionkey is simply an unrestricted Allow List (`actor` matching only) with an `expiration` attached.
 
 ### Signer
 
@@ -131,3 +131,7 @@ The user's home smart account entry point. This is the address where the user's 
 ### User Operation
 
 An ERC4337-compliant wrapped transaction. This is a normal Ethereum transaction packed and signed in such a way that a bundler/paymaster can submit the transaction and cover fees for the user. The user operation is signed by the user's target private key. This target private key has a deterministic association with the user's ultimate ERC4337 target account address, but it does not have a direct cryptographic association. In other words, if you imported this private key into a traditional wallet, the resulting public key and address would be different from the user's ERC4337 address.
+
+### Worker Address
+
+[Abstraction Rules](glossary.md#abstraction-rule) often apply to other individuals, but they can also be used to implicitly create [intent](glossary.md#intent)-bound addresses. Assets and other properties belonging to these addresses can only pursue the allowed intent. This allows non-custodial pre-authorized activity, such as fast travel tunnels, stop losses, and triggered actions, without needing special smart contract pools or custodial solutions.
