@@ -6,7 +6,7 @@ Permissions can be extended to pre-authorize intents, creating one-click product
 
 Depending on your experience with technologies, Obi can be thought of as:
 
-🧩 a [**modular accounts blockchain**](glossary.md) which quietly integrates with all chains, without requiring backend integration work or cross-chain messaging
+🧩 a **modular accounts blockchain** which quietly integrates with all chains, without requiring backend integration work or cross-chain messaging
 
 🛠️ a robust **all-chain permission system,** allowing existing use cases such as spend limits, inheritance, subscriptions, budgets, session keys, gasless [MEV-shielded cross-chain intents](glossary.md), and purpose-bound "worker addresses" – in addition to new use cases not yet deployed
 
