@@ -4,7 +4,9 @@ Obi is a blockchain-agnostic, full-stack, non-custodial solution for user accoun
 
 Permissions can be extended to pre-authorize [intents](glossary.md#intent), creating one-click products such as [non-custodial-fast-travel.md](what-is-obi/non-custodial-fast-travel.md "mention").
 
-Depending on your experience with technologies, Obi can be thought of as:
+### Obi's flexible features allow non-custodial Web3 user experiences which are even easier and more recoverable than Web2 experiences.
+
+Depending on your experience with various technologies, you may find it helpful to think of Obi as:
 
 🧩 a **modular accounts blockchain** which quietly integrates with all chains, without requiring backend integration work or cross-chain messaging
 
@@ -22,7 +24,7 @@ Depending on your experience with technologies, Obi can be thought of as:
 
 Components of **the Obi stack** use multi-party computation (MPC), zero knowledge (ZK), and account abstraction (AA) technologies to create **non-custodial account and permission control** for users that is simple to use yet deeply resistant to attack and loss.
 
-Obi smart accounts control any number of identities (accounts and rules for account behavior) across any number of chains. Currently EVM and Cosmos SDK chains are supported, with limited Bitcoin support and with Solana and Aptos/Sui support coming soon.
+Obi smart accounts control any number of identities (accounts and rules for account behavior) across any number of [target chains](glossary.md#target-chain). Currently EVM and Cosmos SDK chains are supported, with limited Bitcoin support and with Solana and Aptos/Sui support coming soon.
 
 {% content-ref url="what-is-obi/obi-stack-overview.md" %}
 [obi-stack-overview.md](what-is-obi/obi-stack-overview.md)
