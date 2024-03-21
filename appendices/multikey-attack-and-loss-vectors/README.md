@@ -4,15 +4,13 @@ This is a working document.
 
 ### **General Attack/Loss Vectors:**
 
-“Wrench attacks” involving physical, emotional, or chemical coercion to sign apply to most key types and are discussed in _**Duress Mode**_.
+“Wrench attacks” involving physical, emotional, or chemical coercion to sign apply to most key types and are discussed in [_**Duress Mode**_](../../roadmap-features/duress-mode.md).
 
-Sophisticated man-in-the-middle attacks which show the user some data while actually requesting a signature for different data are discussed in **Preventing MitM.**
+Phishing and other social engineering attacks are discussed in [**Preventing Phishing**](../../other-features/seedless-multikey/preventing-phishing.md).
 
-Phishing and other social engineering attacks are discussed in **Preventing Phishing**.
+Cases in which Obi is compromised or shut down are discussed in [**Obi Service Providers**](../../roadmap-features/obi-service-providers/)**.**
 
-Cases in which Obi is compromised or shut down are discussed in **Decentralizing Obi.**
-
-Finally, many attacks can be mitigated by **Security Notifications**.
+Finally, many attacks can be mitigated by [**Security Notifications**](../../roadmap-features/security-notifications-and-lockdowns.md).
 
 ### Specific **Attack/Loss Vectors**
 

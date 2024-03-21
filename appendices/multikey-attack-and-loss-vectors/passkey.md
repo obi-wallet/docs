@@ -9,4 +9,5 @@ can be lost if:
 Non-duress attacks include:
 
 * zero-day exploits affecting the secure hardware
-* physical theft of a device, combined with a biometric workaround or an insecure passcode
+* physical theft of a device, combined with a biometric workaround or an insecure passcode\
+  NEW: Apple has included an upgraded security model which avoids an attacker being able to take over a device and Passkeys simply by knowing the passcode. Obi will recommend this to users, as well as any Android equivalent.
