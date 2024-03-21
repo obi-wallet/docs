@@ -42,7 +42,7 @@ Externally Owned Account. A traditional blockchain account, where a private key 
 
 ### Fast Travel Tunnel
 
-A pre-authorized route across multiple chains. Due to the limitations of multi-chain messaging protocols, in most instances, a worker is used to complete subsequent steps of a fast travel transaction. However, the worker is only authorized to proceed with the Fast Travel route approved by the user – the signer will refuse to sign any other transactions.
+A pre-authorized route across multiple chains. Due to the limitations of multi-chain messaging protocols, in most instances, a non-custodial [worker address](glossary.md#worker-address) is used to complete subsequent steps of a fast travel transaction. However, the worker is only authorized to proceed with the Fast Travel route approved by the user – the signer will refuse to sign any other transactions.
 
 ### Flex Account
 
@@ -59,6 +59,10 @@ The user's account on the home chain.
 ### Home Chain
 
 A user's home chain is where their smart account lives – where abstraction rules are stored and enforced. In current implementations, this is also where the threshold (MPC) signer contract lives, and can sign for various target chains. In the future, multiple signers will be available. The home chain ID is currently secret-4. It will be obi-1 upon Obi network activation, with secret-4 as a backup.
+
+### Immutable Intents
+
+Intent-bound [worker addresses](glossary.md#worker-address) cannot have their intent modified. This is doubly ensured by the address keypair combining the intent with its entropy – meaning that if a signature is created for a different intent (such as a different asset, receiver, or slippage setting), the signature will not even match and no execution can proceed.
 
 ### Inheritance
 
