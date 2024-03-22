@@ -8,7 +8,7 @@ Ethereum chains, Cosmos chains, [Bitcoin, Solana, Move](#user-content-fn-1)[^1] 
 
 To make an account, simply click **Passkey** in the account wizard.
 
-**CAUTION: Do not use Incognito or Private mode, or your Passkey will not be saved.**
+**CAUTION: Do not use Incognito or Private mode for this step, or your Passkey may not be saved by your local system. This may make wallet recovery difficult later.**
 
 <figure><img src=".gitbook/assets/Screenshot 2024-03-22 at 7.35.54 PM.png" alt=""><figcaption><p>If you don't like using Passkeys, more primary key options are coming soon.</p></figcaption></figure>
 
