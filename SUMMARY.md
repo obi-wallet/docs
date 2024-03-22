@@ -1,11 +1,11 @@
 # Table of contents
 
-* [🔵 What is Obi?](README.md)
+* [Quickstart: Using Obi](README.md)
+* [🔵 What is Obi?](<README (1).md>)
 * [⚡ Fast Travel Launch Roadmap](fast-travel-launch-roadmap.md)
 
 ## What is Obi?
 
-* [Using Obi](what-is-obi/using-obi.md)
 * [🔍 Core Obi Features](what-is-obi/what-is-obi-features-overview.md)
 * [🧩 Obi Stack Overview](what-is-obi/obi-stack-overview.md)
 * [🚆 Non-Custodial Fast Travel](what-is-obi/non-custodial-fast-travel.md)
