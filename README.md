@@ -28,6 +28,10 @@ If you need assistance with a Fast Travel transaction, ask for help in the [Obi 
 
 Kado on-ramping is directly integrated into the Obi dashboard. You can automatically obtain assets directly to your Obi account. You will need to give some information to Kado, including KYC (Know Your Customer) information. Obi cannot observe this information in any way.
 
+To begin, simply go to the Buy Crypto tab and interact with the Kado interface.
+
+<figure><img src=".gitbook/assets/Screenshot 2024-03-22 at 8.01.32 PM.png" alt=""><figcaption></figcaption></figure>
+
 ### **Receiving Assets**
 
 To receive crypto assets such as tokens and NFTs, use the **Receive** button and **Receive Tokens**, then select the chain you'd like to receive on.
