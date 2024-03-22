@@ -32,4 +32,12 @@ When you sign a transaction, including a send, you will see the signature prompt
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-22 at 7.44.03 PM.png" alt=""><figcaption><p>After you add more keys, they will be shown here. With a single-passkey wallet, "Approve" is all you need to click.</p></figcaption></figure>
 
+### Connecting to Web3 Applications with WalletConnect
+
+You can connect to a web application in another browser tab or on another device using WalletConnect. The flow for doing this can vary; if you need to pretend to be a Cosmos wallet in order to coax an app to show you a connection link, select the Keplr Mobile option.
+
+Some applications provide Obi connection buttons directly.
+
+When you sign transactions in the connected application, a signing prompt will appear in your Obi tab, allowing you to complete the transaction.
+
 [^1]: Solana coming soon 😬
