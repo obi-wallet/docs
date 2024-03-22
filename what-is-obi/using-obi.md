@@ -4,7 +4,7 @@
 
 Obi allows the simplest account creation of any wallet. Not only do you simply use a Passkey – which some other wallets do, too – you only have to do this once in order to have an account on all chains.
 
-Ethereum chains, Cosmos chains, Bitcoin, Solana\*[^1], you name it.
+Ethereum chains, Cosmos chains, [Bitcoin, Solana, Move](#user-content-fn-1)[^1] – you name it.
 
 To make an account, simply click **Passkey** in the account wizard.
 
@@ -40,4 +40,4 @@ Some applications provide Obi connection buttons directly.
 
 When you sign transactions in the connected application, a signing prompt will appear in your Obi tab, allowing you to complete the transaction.
 
-[^1]: Solana coming soon 😬
+[^1]: Some chains are not yet available in the public UI. But as soon as they're released, you'll have immediate access to them.
