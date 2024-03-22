@@ -5,6 +5,7 @@
 
 ## What is Obi?
 
+* [Using Obi](what-is-obi/using-obi.md)
 * [🔍 What is Obi?](what-is-obi/what-is-obi-features-overview.md)
 * [🧩 Obi Stack Overview](what-is-obi/obi-stack-overview.md)
 * [🚆 Non-Custodial Fast Travel](what-is-obi/non-custodial-fast-travel.md)
