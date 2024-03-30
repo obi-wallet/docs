@@ -19,7 +19,6 @@
 * [🧙‍♂️ Party Members](the-obi-suite/party-members/README.md)
   * [Allowances: Hot Wallets, Budgets, and Subscriptions](the-obi-suite/party-members/allowances-hot-wallets-budgets-and-subscriptions.md)
   * [Allow/Block/Delay Lists](the-obi-suite/party-members/allow-block-delay-lists.md)
-* [🥇 Obi's Unique Advantages](the-obi-suite/obis-unique-advantages.md)
 
 ## Smart Account Features & Architecture
 
@@ -42,6 +41,7 @@
 
 ## Appendices
 
+* [🥇 Obi's Unique Advantages](appendices/obis-unique-advantages.md)
 * [🔢 Multikey Attack & Loss Vectors](appendices/multikey-attack-and-loss-vectors/README.md)
   * [Passkey](appendices/multikey-attack-and-loss-vectors/passkey.md)
   * [Cloud Key](appendices/multikey-attack-and-loss-vectors/cloud-key.md)
