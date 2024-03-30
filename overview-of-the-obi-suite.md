@@ -30,8 +30,8 @@ _What about acronyms? Well, Obi uses Account Abstraction (AA) and multi-party co
 
 Obi **Signet** technology allows your Multikey to control any assets and accounts on any blockchain – EVM (Ethereum), Cosmos, Solana, Bitcoin, Move (Aptos/Sui) blockchains and more. All united in one recoverable, ultra-secure, ultra-easy account.
 
-{% content-ref url="the-obi-suite/signet.md" %}
-[signet.md](the-obi-suite/signet.md)
+{% content-ref url="the-obi-suite/signet/" %}
+[signet](the-obi-suite/signet/)
 {% endcontent-ref %}
 
 Obi **Fast Travel** lets you get whatever you want in 2 clicks. Thanks to Signet's all-chain capabilities, Obi Automatons can non-custodially get you where you want to be without any of the trouble of bridging and paying gas across multiple interfaces.
