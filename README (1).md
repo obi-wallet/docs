@@ -32,14 +32,14 @@ Obi smart accounts control any number of identities (accounts and rules for acco
 
 **Multikey** makes onboarding and using Obi Accounts seedless, easy, recoverable, and hack and loss resistant.
 
-{% content-ref url="other-features/seedless-multikey/" %}
-[seedless-multikey](other-features/seedless-multikey/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 **Flex Accounts** deploy the full power of account abstraction to enable subscriptions, inheritance, safe spend limits, session keys, allow/block lists, and more.
 
-{% content-ref url="smart-account-architecture/flex-accounts/" %}
-[flex-accounts](smart-account-architecture/flex-accounts/)
+{% content-ref url="smart-account-architecture/flex-accounts.md" %}
+[flex-accounts.md](smart-account-architecture/flex-accounts.md)
 {% endcontent-ref %}
 
 **Fast Travel** enables "Anything in Two Clicks" – quick converstion from ETH or other common assets into tokens or strategies in other ecosystems.

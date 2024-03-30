@@ -8,7 +8,7 @@ An Obi company will operate the initial service provider.
 
 ### Multi-Chain Fees: Value Accrual to Service Providers
 
-Unlike most PoS tokens, rewards are not paid out in the underlying token through inflation (ie: stake X, earn X). Instead, [Obi Passport](../../smart-account-architecture/multichain/obi-passport.md) allows the network to collect native fees from chains where Obi accounts are transacting.
+Unlike most PoS tokens, rewards are not paid out in the underlying token through inflation (ie: stake X, earn X). Instead, [Obi Passport](broken-reference) allows the network to collect native fees from chains where Obi accounts are transacting.
 
 This gives us a unique advantage: staking rewards are paid in a basket of native cryptocurrencies (e.g. earn BTC, NTRN, ATOM, and ETH).
 

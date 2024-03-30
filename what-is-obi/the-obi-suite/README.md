@@ -12,8 +12,8 @@ description: >-
 
 **Multikey** replaces seed phrases and other single-key solutions with a zero-hassle, hack-resistant multi-factor solution. You own all of your keys, but none of the hassle.
 
-{% content-ref url="multikey.md" %}
-[multikey.md](multikey.md)
+{% content-ref url="multikey/" %}
+[multikey](multikey/)
 {% endcontent-ref %}
 
 Obi **Signet** technology allows your Multikey to control any assets and accounts on any blockchain – EVM (Ethereum), Cosmos, Solana, Bitcoin, Move (Aptos/Sui) blockchains and more. All united in one recoverable, ultra-secure, ultra-easy account.
@@ -48,7 +48,7 @@ Obi **Fast Travel** lets you get whatever you want in 2 clicks. Thanks to Signet
 
 **Party Members** are people you authorize to spend some funds. Budgets, allowances for your kids or your hot wallets, and subscription services are all great examples.
 
-{% content-ref url="party-members.md" %}
-[party-members.md](party-members.md)
+{% content-ref url="party-members/" %}
+[party-members](party-members/)
 {% endcontent-ref %}
 

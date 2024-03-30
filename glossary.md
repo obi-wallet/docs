@@ -86,7 +86,7 @@ A Japanese word for certain types of belts. In addition, _bi_ is the Mandarin wo
 
 ### Owner
 
-The user; the address or public key (preferably a [seedless-multikey](other-features/seedless-multikey/ "mention")) which is the ultimate owner of the user [smart account](glossary.md#smart-account). The owner is the only signing party authorized to take admin actions such as updating the account, updating the owner, and adding [abstraction rules](glossary.md#abstraction-rule).
+The user; the address or public key (preferably a [Broken link](broken-reference "mention")) which is the ultimate owner of the user [smart account](glossary.md#smart-account). The owner is the only signing party authorized to take admin actions such as updating the account, updating the owner, and adding [abstraction rules](glossary.md#abstraction-rule).
 
 ### Paymaster
 

@@ -16,7 +16,7 @@ An Obi Smart Account should not be a monolithic contract. Various types of abstr
 
 An Obi Smart Account should separate user state and logic, so that user state contracts can be minimal while rule application logic can be shared and independently updated. User state includes items such as:
 
-* All abstraction rules (see [flex-accounts](flex-accounts/ "mention"))
+* All abstraction rules (see [flex-accounts.md](flex-accounts.md "mention"))
 * Last activity time (for v1 inheritance triggering; later solutions may even account for non-execute activity)
 * Contract owner
 * Currently used global logic contracts
