@@ -11,6 +11,6 @@ The MVP of Obi Multikey uses Twilio for SMS keys. This is a possible point of fa
 
 To remedy this, first, Obi will maintain fallback providers other than Twilio.
 
-Once ready, Obi Service Providers will provide this service instead, preventing Obi as a company or Obi staff from being a single point of failure. See [Obi Service Providers](../../../roadmap-features/obi-service-providers/).
+Once ready, Obi Service Providers will provide this service instead, preventing Obi as a company or Obi staff from being a single point of failure. See [Obi Service Providers](../../roadmap-features/obi-service-providers/).
 
 Similar improvement strategies are planned for other key types requiring web2 services, such as Telegram, WhatsApp, and voice authentication.

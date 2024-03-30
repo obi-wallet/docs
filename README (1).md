@@ -38,8 +38,8 @@ Obi smart accounts control any number of identities (accounts and rules for acco
 
 **Flex Accounts** deploy the full power of account abstraction to enable subscriptions, inheritance, safe spend limits, session keys, allow/block lists, and more.
 
-{% content-ref url="smart-account-architecture/flex-accounts.md" %}
-[flex-accounts.md](smart-account-architecture/flex-accounts.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 **Fast Travel** enables "Anything in Two Clicks" – quick converstion from ETH or other common assets into tokens or strategies in other ecosystems.

@@ -19,11 +19,11 @@ Obi Multikey can expand to include any imaginable key type. At the time of this 
 
 OTP Authenticators (Google Authenticator, Authy) are being considered as a key type.
 
-Also, voice authentication and other biometric keys are being considered. Voice authentication would require an authenticating service as it tends to be too fuzzy to deterministically generate a keypair on demand; [Obi Service Providers](../../../roadmap-features/obi-service-providers/) can provide this service in a later version.
+Also, voice authentication and other biometric keys are being considered. Voice authentication would require an authenticating service as it tends to be too fuzzy to deterministically generate a keypair on demand; [Obi Service Providers](../../roadmap-features/obi-service-providers/) can provide this service in a later version.
 
 ### Security by Diversity
 
-Multikey is protected primarily by its diversity. Each key has distinct attack and loss vectors, making loss unlikely and attacks infeasible. See full discussion of the various keys and attack scenarios in [Appendix: Multikey _**Attack & Loss Vectors**_](../../../appendices/multikey-attack-and-loss-vectors/).
+Multikey is protected primarily by its diversity. Each key has distinct attack and loss vectors, making loss unlikely and attacks infeasible. See full discussion of the various keys and attack scenarios in [Appendix: Multikey _**Attack & Loss Vectors**_](../../appendices/multikey-attack-and-loss-vectors/).
 
 ### Threshold
 

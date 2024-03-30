@@ -1,4 +1,4 @@
-# 💪 Flex Accounts
+# Party Members
 
 Account abstraction enables an Obi Account to enforce rules on transactions, especially regarding permissions given to other accounts or addresses. This unlocks a new design space.
 

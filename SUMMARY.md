@@ -7,21 +7,19 @@
 ## What is Obi?
 
 * [The Obi Suite](what-is-obi/the-obi-suite/README.md)
-  * [Multikey](what-is-obi/the-obi-suite/multikey/README.md)
-    * [🎣 Preventing Phishing](what-is-obi/the-obi-suite/multikey/preventing-phishing.md)
-    * [📲 SMS and Other Web2 Providers](what-is-obi/the-obi-suite/multikey/sms-and-other-web2-providers.md)
-    * [💕 Final Recovery](what-is-obi/the-obi-suite/multikey/final-recovery.md)
+  * [Multikey](what-is-obi/the-obi-suite/multikey.md)
+    * [🎣 Preventing Phishing](other-features/seedless-multikey/preventing-phishing.md)
+    * [📲 SMS and Other Web2 Providers](other-features/seedless-multikey/sms-and-other-web2-providers.md)
+    * [💕 Final Recovery](other-features/seedless-multikey/final-recovery.md)
   * [Signet](what-is-obi/the-obi-suite/signet.md)
   * [Fast Travel](what-is-obi/the-obi-suite/fast-travel.md)
   * [Extra Life](what-is-obi/the-obi-suite/extra-life.md)
   * [Automatons](what-is-obi/the-obi-suite/automatons.md)
   * [Anti-Cheat Sign-in](what-is-obi/the-obi-suite/anti-cheat-sign-in.md)
-  * [Party Members](what-is-obi/the-obi-suite/party-members/README.md)
-    * [Allowances: Hot Wallets, Budgets, and Subscriptions](what-is-obi/the-obi-suite/party-members/allowances-hot-wallets-budgets-and-subscriptions.md)
-    * [Allowances: Inheritance](what-is-obi/the-obi-suite/party-members/allowances-inheritance.md)
-    * [Sessionkeys](what-is-obi/the-obi-suite/party-members/sessionkeys.md)
-    * [Allow/Block/Delay Lists](what-is-obi/the-obi-suite/party-members/allow-block-delay-lists.md)
-    * [Threshold Escalation](what-is-obi/the-obi-suite/party-members/threshold-escalation.md)
+  * [Party Members](what-is-obi/the-obi-suite/party-members.md)
+    * [Allowances: Hot Wallets, Budgets, and Subscriptions](smart-account-architecture/flex-accounts/allowances-hot-wallets-budgets-and-subscriptions.md)
+    * [Allow/Block/Delay Lists](smart-account-architecture/flex-accounts/allow-block-delay-lists.md)
+    * [Threshold Escalation](smart-account-architecture/flex-accounts/threshold-escalation.md)
 * [🔍 Core Obi Features](what-is-obi/what-is-obi-features-overview.md)
 * [🧩 Obi Stack Overview](what-is-obi/obi-stack-overview.md)
 * [🚆 Non-Custodial Fast Travel](what-is-obi/non-custodial-fast-travel.md)
@@ -31,7 +29,6 @@
 
 * [📜 Smart Account Design Philosophy](smart-account-architecture/smart-account-design-philosophy.md)
 * [🏗️ Smart Contract Architecture & Flow](smart-account-architecture/smart-contract-architecture-and-flow.md)
-* [💪 Flex Accounts](smart-account-architecture/flex-accounts.md)
 
 ## Other Features
 

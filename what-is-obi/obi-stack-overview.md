@@ -25,7 +25,7 @@ The Obi stack has multiple component groups which can be swapped out or upgraded
 A typical transaction involves:
 
 1. The user signs the transaction request with their Multikey threshold (or with a user-authorized [allowance](../glossary.md#spendlimit) account or easy [session key)](../glossary.md#sessionkey).
-2. The user’s account [allows](../glossary.md#allow-list) or [blocks](../glossary.md#block-list) the transaction based on the current [abstraction rules](../smart-account-architecture/flex-accounts.md), the simplest of which is, “Is the sender/signer the account [owner](../glossary.md#owner)?”
+2. The user’s account [allows](../glossary.md#allow-list) or [blocks](../glossary.md#block-list) the transaction based on the current [abstraction rules](broken-reference), the simplest of which is, “Is the sender/signer the account [owner](../glossary.md#owner)?”
 3. The Obi [signer](../glossary.md#signer) finalizes the signature with the network share, an irretrievable share which can only sign if step 2 allowed the transaction.
 4. This final signed transaction is broadcast directly or via 4337 relay/paymaster.
 
