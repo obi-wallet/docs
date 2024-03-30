@@ -8,7 +8,11 @@ description: >-
 
 ## Web3 has never been this \*easy\* and \*safe\*.
 
-### Obi's flexible features allow non-custodial Web3 user experiences which are even easier and more recoverable than Web2 experiences.
+Obi's flexible features allow non-custodial Web3 user experiences which are even easier and more recoverable than Web2 experiences.
+
+### And Obi brings this to all chains and apps without any integration work required.
+
+### Target chains do not even need to know about Obi's existence. It just works, wherever you are.
 
 **Multikey** replaces seed phrases and other single-key solutions with a zero-hassle, hack-resistant multi-factor solution. You own all of your keys, but none of the hassle.
 
