@@ -7,13 +7,13 @@
 ## What is Obi?
 
 * [The Obi Suite](what-is-obi/the-obi-suite/README.md)
-  * [Multikey](what-is-obi/the-obi-suite/multikey.md)
+  * [🔒 Multikey](what-is-obi/the-obi-suite/multikey.md)
     * [🎣 Preventing Phishing](other-features/seedless-multikey/preventing-phishing.md)
     * [📲 SMS and Other Web2 Providers](other-features/seedless-multikey/sms-and-other-web2-providers.md)
     * [💕 Final Recovery](other-features/seedless-multikey/final-recovery.md)
-  * [Signet](what-is-obi/the-obi-suite/signet.md)
-  * [Fast Travel](what-is-obi/the-obi-suite/fast-travel.md)
-  * [Extra Life](what-is-obi/the-obi-suite/extra-life.md)
+  * [🔍 Signet](what-is-obi/the-obi-suite/signet.md)
+  * [🏇 Fast Travel](what-is-obi/the-obi-suite/fast-travel.md)
+  * [💕 Extra Life](what-is-obi/the-obi-suite/extra-life.md)
   * [Automatons](what-is-obi/the-obi-suite/automatons.md)
   * [Anti-Cheat Sign-in](what-is-obi/the-obi-suite/anti-cheat-sign-in.md)
   * [Party Members](what-is-obi/the-obi-suite/party-members.md)
