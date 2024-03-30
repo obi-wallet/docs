@@ -3,7 +3,7 @@
 Signet works by allowing account abstraction logic to be applied gaslessly and immediately at the **signing** step of the transaction flow, rather than at the target chain transaction step. Account abstraction rules are checked by the smart account without adding additional target chain execution cost or additional latency. If an active account abstraction rule is matched, including but not limited to these examples:
 
 * the actor is the account owner, using multi-factor authentication
-* the actor is an active session key ([anti-cheat-sign-in](../anti-cheat-sign-in/ "mention"))
+* the actor is an active session key ([safe-sign-in](../safe-sign-in/ "mention"))
 * the actor has an active budget ([party-members](../party-members/ "mention"))
 * the actor is an inheritor, and inheritance is active ([extra-life.md](../extra-life.md "mention"))
 
