@@ -2,7 +2,7 @@
 description: Inheritance, but also more than that.
 ---
 
-# Extra Life
+# 💕 Extra Life
 
 Extra Life passes on funds, and optionally ultimate full account control, to beneficiaries.
 

@@ -2,7 +2,7 @@
 description: A safe but rapid rollout of production features, happening now!
 ---
 
-# ⚡ Fast Travel Launch Roadmap
+# ⚡ Roadmap
 
 Fast Travel lets you teleport assets in your very own non-custodial [fast travel tunnels](glossary.md#fast-travel-tunnel).
 
@@ -34,15 +34,20 @@ This magic is made possible through [Obi Accounts](broken-reference), the first 
 
 ### March 2024
 
-🔄 ->All Cosmos Chains Fast Travel\
-🔄 IBC and Cosmos Dex Token Fast Travel\
-🔄 USDC->Anything Fast Travel\
-🔄 All EVM Chains Fast Travel\
-🔄 On-chain 2FA/3FA
+✅ ->All Cosmos Chains Fast Travel\
+✅ On-chain 2FA/3FA\
+🔄 IBC and Cosmos Dex Token Fast Travel
 
 ### April 2024
 
+🔄 USDC->Anything Fast Travel\
+🔄 All EVM Chains Fast Travel\
+🔄 Solana Fast Travel\
 🔄 “Wrong Network” Recovery in UI\
+🔜 Extra Life
+
+### May 2024
+
 🔜 Best Route Guaranteed\
 🔜 Fast Travel Link Machine\
 🔜 Obi as MetaMask Account 🦊\
@@ -51,7 +56,7 @@ This magic is made possible through [Obi Accounts](broken-reference), the first 
 🔜 Fast Travel to LPs and Vaults\
 🔜 Fast Travel to NFTs
 
-### May 2024
+### June 2024
 
 🔜 "Anything in 2 Clicks"... in Frames!\
 🔜 Launch of Growth Incentives\

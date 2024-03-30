@@ -1,33 +1,32 @@
 # Table of contents
 
 * [Quickstart: Using Obi](README.md)
-* [🔵 What is Obi?](<README (1).md>)
-* [⚡ Fast Travel Launch Roadmap](fast-travel-launch-roadmap.md)
+* [🔵 Overview of the Obi Suite](overview-of-the-obi-suite.md)
+* [⚡ Roadmap](fast-travel-launch-roadmap.md)
 
-## What is Obi?
+## The Obi Suite
 
-* [The Obi Suite](what-is-obi/the-obi-suite/README.md)
-  * [🔒 Multikey](what-is-obi/the-obi-suite/multikey.md)
-    * [🎣 Preventing Phishing](other-features/seedless-multikey/preventing-phishing.md)
-    * [📲 SMS and Other Web2 Providers](other-features/seedless-multikey/sms-and-other-web2-providers.md)
-    * [💕 Final Recovery](other-features/seedless-multikey/final-recovery.md)
-  * [🔍 Signet](what-is-obi/the-obi-suite/signet.md)
-  * [🏇 Fast Travel](what-is-obi/the-obi-suite/fast-travel.md)
-  * [💕 Extra Life](what-is-obi/the-obi-suite/extra-life.md)
-  * [Automatons](what-is-obi/the-obi-suite/automatons.md)
-  * [Anti-Cheat Sign-in](what-is-obi/the-obi-suite/anti-cheat-sign-in.md)
-  * [Party Members](what-is-obi/the-obi-suite/party-members.md)
-    * [Allowances: Hot Wallets, Budgets, and Subscriptions](smart-account-architecture/flex-accounts/allowances-hot-wallets-budgets-and-subscriptions.md)
-    * [Allow/Block/Delay Lists](smart-account-architecture/flex-accounts/allow-block-delay-lists.md)
-    * [Threshold Escalation](smart-account-architecture/flex-accounts/threshold-escalation.md)
-* [🔍 Core Obi Features](what-is-obi/what-is-obi-features-overview.md)
-* [🧩 Obi Stack Overview](what-is-obi/obi-stack-overview.md)
-* [🥇 Obi's Unique Advantages](what-is-obi/obis-unique-advantages.md)
+* [🔒 Multikey](the-obi-suite/multikey/README.md)
+  * [🎣 Preventing Phishing](the-obi-suite/multikey/preventing-phishing.md)
+  * [📲 SMS and Other Web2 Providers](the-obi-suite/multikey/sms-and-other-web2-providers.md)
+  * [💕 Final Recovery](the-obi-suite/multikey/final-recovery.md)
+* [🔍 Signet](the-obi-suite/signet.md)
+* [🏇 Fast Travel](the-obi-suite/fast-travel.md)
+* [💕 Extra Life](the-obi-suite/extra-life.md)
+* [🤖 Automatons](the-obi-suite/automatons.md)
+* [💂 Anti-Cheat Sign-in](the-obi-suite/anti-cheat-sign-in/README.md)
+  * [Threshold Escalation](the-obi-suite/anti-cheat-sign-in/threshold-escalation.md)
+* [🧙‍♂️ Party Members](the-obi-suite/party-members/README.md)
+  * [Allowances: Hot Wallets, Budgets, and Subscriptions](the-obi-suite/party-members/allowances-hot-wallets-budgets-and-subscriptions.md)
+  * [Allow/Block/Delay Lists](the-obi-suite/party-members/allow-block-delay-lists.md)
+* [🥇 Obi's Unique Advantages](the-obi-suite/obis-unique-advantages.md)
 
-## Smart Account Architecture
+## Smart Account Features & Architecture
 
-* [📜 Smart Account Design Philosophy](smart-account-architecture/smart-account-design-philosophy.md)
-* [🏗️ Smart Contract Architecture & Flow](smart-account-architecture/smart-contract-architecture-and-flow.md)
+* [🔍 General Obi Features](smart-account-features-and-architecture/what-is-obi-features-overview.md)
+* [🧩 Obi Stack Overview](smart-account-features-and-architecture/obi-stack-overview.md)
+* [📜 Smart Account Design Philosophy](smart-account-features-and-architecture/smart-account-design-philosophy.md)
+* [🏗️ Smart Contract Architecture & Flow](smart-account-features-and-architecture/smart-contract-architecture-and-flow.md)
 
 ## Other Features
 

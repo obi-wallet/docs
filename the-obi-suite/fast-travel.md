@@ -2,7 +2,7 @@
 description: Anything You Want. Two Clicks. Non-Custodial.
 ---
 
-# Fast Travel
+# 🏇 Fast Travel
 
 Fast Travel allows users to one-click move from ETH, USDC, or another common asset into an asset or strategy in a different ecosystem.
 

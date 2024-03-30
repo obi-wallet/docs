@@ -1,4 +1,4 @@
-# Signet
+# 🔍 Signet
 
 Obi Signet enables **multi-chain account abstraction** for the first time: with one secure account and one flexible set of rules, users can manage addresses, apps, and assets on any chains they wish.
 
