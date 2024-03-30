@@ -6,22 +6,22 @@ description: Inheritance, but also more than that.
 
 Extra Life passes on funds, and optionally ultimate full account control, to beneficiaries.
 
-Additionally, though, an inheritance setup – on its own or in conjunction with normal inheritance – can also provide a “final recovery” path for any user who is concerned about permanently having their Multikey ruined through negligence, coordinated attack, or seizure of multiple personal items.
+But you don't have to die to benefit from Extra Life! This "final recovery" solution can also come to your rescue if you suffer from:
 
-Following progressive onboarding, users can be prompted to set up Final Recovery and Inheritance if their account value becomes significant.
+• coordinated attack on your Multikey
 
-Inheritance works like a spend limit, but with some additional notes:
+• seizure or loss of multiple personal items and accounts at once
 
-* Inheritance only activates after a dormancy period – a customizable minimum amount of time during which the main account must be inactive, indicating that something has happened to its owner.
-* Inheritance spend limits are likely set as a percentage of assets – such as 5% per month – instead of numerical or dollar totals. If the `spendlimit` field is `[]`, 100% is available immediately.
-* A “full control” time sets when beneficiaries receive full control of the Obi Account, unlocking any account assets which could not meaningfully be provided in a drip, as well as cross-chain signing potential.
-* Setting an Inheritance Address in the User Interface
-  * Go to the Accounts tab.
-  * Create a new Inheritance Account.
-  * Enter the address which will inherit funds. It can be an Obi Account or any other kind of address.
-  * Set the parameters for the inheritance:
-    * **Dormancy Period**: Your account must have no activity for this time period in order for inheritance to be claimable.
-    * **Drip**: Your selected percentage of assets will be available each selected time period (for example, 5% per month). Rollover is not yet implemented.
-    * **Full Control**: The recipient will receive full control of your account and be able to take any action on it after this amount of time has passed.
-    * Note that any owner activity on the account will restart the Dormancy Period – even if inheritance is currently active.
-  * Confirm your settings.
+• accidental, negligent, or intentional destruction of your Multikey
+
+• amnesia or other incapacitation
+
+Extra Life is undergoing final internal testing and is coming soon to [obi.money.](https://obi.money) You will be prompted to set up Extra Life if your account value becomes significant, but you can also set it up manually at any time.
+
+Extra Life is maximally flexible, allowing you to set several parameters for your inheritance/recovery:
+
+* **dormancy period** – a customizable minimum amount of time during which the main account must be inactive, indicating that something has happened to its owner
+* **drip percentage** – such as 5% per month
+* **“full control” event**, when beneficiaries receive full control of the Obi Account, unlocking any account assets which could not meaningfully be provided in a drip – such as identities and optionally message-signing ability
+
+Drip percentages can be created in parallel in order to create multi-user inheritance setups.

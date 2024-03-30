@@ -36,8 +36,8 @@ Obi **Signet** technology allows your Multikey to control any assets and account
 
 Obi **Fast Travel** lets you get whatever you want in 2 clicks. Thanks to Signet's all-chain capabilities, Obi Automatons can non-custodially get you where you want to be without any of the trouble of bridging and paying gas across multiple interfaces.
 
-{% content-ref url="the-obi-suite/fast-travel.md" %}
-[fast-travel.md](the-obi-suite/fast-travel.md)
+{% content-ref url="the-obi-suite/fast-travel/" %}
+[fast-travel](the-obi-suite/fast-travel/)
 {% endcontent-ref %}
 
 **Extra Life** allows safe non-custodial account recovery in extreme situations, such as when you lose many of your Multikey factors, or if you become incapacitated.
