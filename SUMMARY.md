@@ -6,6 +6,14 @@
 
 ## What is Obi?
 
+* [The Obi Suite](what-is-obi/the-obi-suite/README.md)
+  * [Multikey](what-is-obi/the-obi-suite/multikey.md)
+  * [Signet](what-is-obi/the-obi-suite/signet.md)
+  * [Fast Travel](what-is-obi/the-obi-suite/fast-travel.md)
+  * [Extra Life](what-is-obi/the-obi-suite/extra-life.md)
+  * [Automatons](what-is-obi/the-obi-suite/automatons.md)
+  * [Anti-Cheat Sign-in](what-is-obi/the-obi-suite/anti-cheat-sign-in.md)
+  * [Party Members](what-is-obi/the-obi-suite/party-members.md)
 * [🔍 Core Obi Features](what-is-obi/what-is-obi-features-overview.md)
 * [🧩 Obi Stack Overview](what-is-obi/obi-stack-overview.md)
 * [🚆 Non-Custodial Fast Travel](what-is-obi/non-custodial-fast-travel.md)
