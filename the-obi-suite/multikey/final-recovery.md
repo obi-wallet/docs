@@ -1,7 +1,3 @@
 # 💕 Final Recovery
 
-[Allowances: Inheritance](broken-reference) are intended for passing on funds, and optionally ultimate full account control, to beneficiaries.
-
-Additionally, though, an inheritance setup – on its own or in conjunction with normal inheritance – can also provide a “final recovery” path for any user who is concerned about permanently having their Multikey ruined through negligence, coordinated attack, or seizure of multiple personal items.
-
-Following progressive onboarding, users can be prompted to set up Final Recovery and Inheritance if their account value becomes significant.
+If a user's Multikey is ruined through negligence, coordinated attack, or seizure of multiple personal items, not all is lost. As long as the user has set up [extra-life.md](../extra-life.md "mention"), they or their loved ones can – after a delay – help recover their account.
