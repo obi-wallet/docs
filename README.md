@@ -66,4 +66,8 @@ Some applications provide Obi connection buttons directly.
 
 When you start transactions in the connected application, a signing prompt will appear in your Obi web browser tab, allowing you to complete the transaction.
 
+### Enabling Extra Life
+
+Extra Life's advanced non-custodial account recovery is in testing and will be available in the UI soon.
+
 [^1]: Some chains are not yet available in the public UI. But as soon as they're released, you'll have immediate access to them.
