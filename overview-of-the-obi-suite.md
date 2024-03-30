@@ -24,43 +24,43 @@ _What about acronyms? Well, Obi uses Account Abstraction (AA) and multi-party co
 
 **Multikey** replaces seed phrases and other single-key solutions with a zero-hassle, hack-resistant multi-factor solution. You own all of your keys, but none of the hassle. Secure, one-click onboarding and login.
 
-{% content-ref url="the-obi-suite/multikey/" %}
-[multikey](the-obi-suite/multikey/)
+{% content-ref url="the-obi-smart-account-suite/multikey/" %}
+[multikey](the-obi-smart-account-suite/multikey/)
 {% endcontent-ref %}
 
 Obi **Signet** technology allows your Multikey to control any assets and accounts on any blockchain – EVM (Ethereum), Cosmos, Solana, Bitcoin, Move (Aptos/Sui) blockchains and more. All united in one recoverable, ultra-secure, ultra-easy account.
 
-{% content-ref url="the-obi-suite/signet/" %}
-[signet](the-obi-suite/signet/)
+{% content-ref url="the-obi-smart-account-suite/signet/" %}
+[signet](the-obi-smart-account-suite/signet/)
 {% endcontent-ref %}
 
 Obi **Fast Travel** lets you get whatever you want in 2 clicks. Thanks to Signet's all-chain capabilities, Obi Automatons can non-custodially get you where you want to be without any of the trouble of bridging and paying gas across multiple interfaces.
 
-{% content-ref url="the-obi-suite/fast-travel/" %}
-[fast-travel](the-obi-suite/fast-travel/)
+{% content-ref url="the-obi-smart-account-suite/fast-travel/" %}
+[fast-travel](the-obi-smart-account-suite/fast-travel/)
 {% endcontent-ref %}
 
 **Extra Life** allows safe non-custodial account recovery in extreme situations, such as when you lose many of your Multikey factors, or if you become incapacitated.
 
-{% content-ref url="the-obi-suite/extra-life.md" %}
-[extra-life.md](the-obi-suite/extra-life.md)
+{% content-ref url="the-obi-smart-account-suite/extra-life.md" %}
+[extra-life.md](the-obi-smart-account-suite/extra-life.md)
 {% endcontent-ref %}
 
 **Automatons** are worker addresses that can work independently across any chains but can only do exactly what you've allowed them to do. They're bound to your intent.
 
-{% content-ref url="the-obi-suite/automatons.md" %}
-[automatons.md](the-obi-suite/automatons.md)
+{% content-ref url="the-obi-smart-account-suite/automatons.md" %}
+[automatons.md](the-obi-smart-account-suite/automatons.md)
 {% endcontent-ref %}
 
 **Anti-Cheat Sign-In** brings you a one-click login experience that is still safe. If anyone – yourself included – tries to spend too much or do something dangerous, your Multikey is required again.
 
-{% content-ref url="the-obi-suite/anti-cheat-sign-in/" %}
-[anti-cheat-sign-in](the-obi-suite/anti-cheat-sign-in/)
+{% content-ref url="the-obi-smart-account-suite/anti-cheat-sign-in/" %}
+[anti-cheat-sign-in](the-obi-smart-account-suite/anti-cheat-sign-in/)
 {% endcontent-ref %}
 
 **Party Members** are people you authorize to spend some funds. Budgets, allowances for your kids or your hot wallets, and subscription services are all great examples.
 
-{% content-ref url="the-obi-suite/party-members/" %}
-[party-members](the-obi-suite/party-members/)
+{% content-ref url="the-obi-smart-account-suite/party-members/" %}
+[party-members](the-obi-smart-account-suite/party-members/)
 {% endcontent-ref %}
 
