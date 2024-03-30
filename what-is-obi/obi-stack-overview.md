@@ -1,14 +1,14 @@
 ---
-description: Overview of the five modular component groups of the Obi stack
+description: Overview of the modular component groups of the Obi stack
 ---
 
 # 🧩 Obi Stack Overview
 
 <figure><img src="../.gitbook/assets/Obi Stack Dark.png" alt=""><figcaption></figcaption></figure>
 
-The Obi stack has five component groups which can be swapped out or upgraded independently, without adversely affecting users.
+The Obi stack has multiple component groups which can be swapped out or upgraded independently, without adversely affecting users.
 
-### Depending on your experience with various technologies, you may find it helpful to think of Obi as:
+### Depending on your experience with various technologies, you may find it helpful to think of Obi's core technology as:
 
 🧩 a **modular accounts blockchain** which quietly integrates with all chains, without requiring backend integration work or cross-chain messaging
 
