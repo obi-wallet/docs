@@ -1,3 +1,7 @@
+---
+description: Your own worker addresses, pursuing your intents automatically.
+---
+
 # 🤖 Automatons
 
 [Abstraction Rules](../glossary.md#abstraction-rule) often apply to other individuals, such as with [extra-life.md](extra-life.md "mention") and [party-members](party-members/ "mention") – but they can also be used to implicitly create [intent](../glossary.md#intent)-bound addresses.&#x20;

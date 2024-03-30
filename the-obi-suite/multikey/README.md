@@ -1,3 +1,7 @@
+---
+description: Seed phrases are dead.
+---
+
 # 🔒 Multikey
 
 _**Note that “key” is used generally, and may in different contexts refer to an actual private key for a network account, an MPC key share, or even an encryption key used by a client app or network to securely hold either of the former. On the whole, security and other considerations remain the same for all definitions.**_
