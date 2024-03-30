@@ -1,18 +1,14 @@
 # Allowances: Hot Wallets, Budgets, and Subscriptions
 
-A hot wallet key has permission to sign for transactions which spend up to the **recurring spend limit** enforced by the matching gatekeeper.
+A [spend limit](../../glossary.md#spendlimit) has multiple uses. Obi [signet](../signet/ "mention") can assist in signature finalization for an authorized user if a spend limit [abstraction rule](../../glossary.md#abstraction-rule) applies.
 
-#### Examples
+### Examples:
 
-* A customizable daily spend limit of $100 for the user’s primary Device Key, allowing easy quick signing on mobile device without needing to escalate to the whole x-of-n Multikey. This provides the added benefit of a “phishing shield,” where transactions such as minting and small sends should not trigger escalation, and escalation is a warning sign that the connected site is not acting as expected.
+* A customizable daily spend limit of $100 for the user’s primary Passkey, allowing easy quick signing on mobile device without needing to escalate to the whole _x-of-n_ Multikey. This provides the added benefit of a “phishing shield,” where transactions such as minting and small sends should not trigger escalation, and escalation is a warning sign that the connected site is not acting as expected.
 * A budget of $1500 per month for a contractor. This does not need to be topped up or manually paid out, as the contractor has permission to spend (withdraw) this amount per month without needing additional action from the Obi Account.
 * A subscription of $20 per week. The provider account has permission to withdraw that amount per week. The user can cancel at any time, but otherwise does not need to take any regular action to keep the subscription.
 * Creating an Allowance in the User Interface
-  * Select the Accounts tab
-  * Create a new Flex Account
-  * Set the new account’s rules to “Limited”
-  * Select the desired dollar limit, using the slider or manual entry
-  * Confirm your settings
+  * Party Members is coming to the [obi.money](https://obi.money) interface soon.
 * Managing Allowances using CLI/Code
   *   Manually: Retrieve your user account's state with the query `"{"gatekeeper_contracts": {}}`. Then, interact with the returned `user_state` contract address as follows:
 
