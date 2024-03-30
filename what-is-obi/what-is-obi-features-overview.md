@@ -2,7 +2,7 @@
 
 Obi is a blockchain-agnostic (modular) non-custodial solution for user account management, [permissions](../glossary.md#abstraction-rule), recovery, [inheritance](../glossary.md#inheritance), [intents](../glossary.md#intent), and security.
 
-Permissions can be extended to pre-authorize [intents](../glossary.md#intent) with , creating one-click non-custodial products such as [non-custodial-fast-travel.md](non-custodial-fast-travel.md "mention").
+Permissions can be extended to pre-authorize [intents](../glossary.md#intent) with , creating one-click non-custodial products such as [Broken link](broken-reference "mention").
 
 Obi is:
 

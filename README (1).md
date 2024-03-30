@@ -44,7 +44,7 @@ Obi smart accounts control any number of identities (accounts and rules for acco
 
 **Fast Travel** enables "Anything in Two Clicks" – quick converstion from ETH or other common assets into tokens or strategies in other ecosystems.
 
-{% content-ref url="what-is-obi/non-custodial-fast-travel.md" %}
-[non-custodial-fast-travel.md](what-is-obi/non-custodial-fast-travel.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
