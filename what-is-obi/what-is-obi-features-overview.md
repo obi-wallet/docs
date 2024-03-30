@@ -22,15 +22,3 @@ Obi is:
   * even in multiple contexts, Obi accounts can still be universal due to the coincidence of multiple signing factors: create an account in one web app, use it in another
 * **feeless** experience: although transactions do cost native network fees on [target chains](../glossary.md#target-chain), these are covered or abstracted away for Obi users in various ways
 * **easy**: users use diverse but familiar web2 patterns to generate or store their non-custodial keys
-
-Depending on your experience with various technologies, you may find it helpful to think of Obi as:
-
-🧩 a **modular accounts blockchain** which quietly integrates with all chains, without requiring backend integration work or cross-chain messaging
-
-🛠️ a robust **all-chain permission system,** allowing existing use cases such as [spend limits](../glossary.md#spendlimit), [inheritance](../glossary.md#inheritance), subscriptions, budgets, [session keys](../glossary.md#sessionkey), [gasless](../glossary.md#gasless-mpc) [MEV-shielded](../glossary.md#mev-shielded-intent) cross-chain [intents](../glossary.md#intent), and purpose-bound "worker addresses" – in addition to new use cases not yet deployed
-
-🔑 a near-zero-latency gasless **MPC helper network** – like a Ledger hardware wallet adding to your security, but as a network – where even nodes, downtime, or secure hardware vulnerabilities do not jeopardize user funds or access
-
-🔒 a **security network** bringing standardization to user accounts across blockchains
-
-😄 an all-chain, seamless, recoverable, hack-resistant **user account experience**
