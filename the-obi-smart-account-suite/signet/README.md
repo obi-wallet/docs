@@ -10,4 +10,4 @@ With Signet, Obi Accounts on any chain can control addresses on any other chain,
 
 Anytime you want to act on a new chain, your account, your [multikey](../multikey/ "mention"), and your [extra-life.md](../extra-life.md "mention") and other settings are already active. Bring them with you without any setup.
 
-Signet is a seamless, zero-setup multichain user experience. Try it in Early Access today at [obi.money](https://obi.money).
+### Signet is a seamless, zero-setup multichain user experience. Try it in Early Access today at [obi.money](https://obi.money).
