@@ -1,4 +1,4 @@
-# Signet Whitepaper
+# Draft Signet Whitepaper
 
 Signet works by allowing account abstraction logic to be applied gaslessly and immediately at the **signing** step of the transaction flow, rather than at the target chain transaction step. Account abstraction rules are checked by the smart account without adding additional target chain execution cost or additional latency. If an active account abstraction rule is matched, including but not limited to these examples:
 
@@ -17,6 +17,6 @@ From the user’s perspective, they simply submit an Ethereum (or Cosmos Hub) tr
 
 From Ethereum’s (or Cosmos Hub's) perspective in this example, an [EOA](../../glossary.md#eoa) private key signed a simple transaction. However, account abstraction rules were applied on a different layer, saving gas and enabling functionality which is not yet natively available on Ethereum.
 
-Read more in the [Signet Whitepaper](https://docs.google.com/document/d/1Tdc8-2bZ2DdNX\_oVD1h\_mIretjDSKZHny07W4BcG4xM/):
+Read more in the draft [Signet Whitepaper](https://docs.google.com/document/d/1Tdc8-2bZ2DdNX\_oVD1h\_mIretjDSKZHny07W4BcG4xM/):
 
 {% embed url="https://docs.google.com/document/d/1Tdc8-2bZ2DdNX_oVD1h_mIretjDSKZHny07W4BcG4xM/" %}

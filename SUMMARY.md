@@ -11,7 +11,7 @@
   * [📲 SMS and Other Web2 Providers](the-obi-smart-account-suite/multikey/sms-and-other-web2-providers.md)
   * [💕 Final Recovery](the-obi-smart-account-suite/multikey/final-recovery.md)
 * [🔍 Signet](the-obi-smart-account-suite/signet/README.md)
-  * [Signet Whitepaper](the-obi-smart-account-suite/signet/technical-overview-of-signet.md)
+  * [Draft Signet Whitepaper](the-obi-smart-account-suite/signet/draft-signet-whitepaper.md)
 * [🏇 Fast Travel](the-obi-smart-account-suite/fast-travel/README.md)
   * [Technical Overview of Fast Travel](the-obi-smart-account-suite/fast-travel/technical-overview-of-fast-travel.md)
 * [💕 Extra Life](the-obi-smart-account-suite/extra-life.md)
