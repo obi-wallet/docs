@@ -23,4 +23,4 @@ The fees will be distributed to service providers, and potentially to other part
 
 Entities who wish to ensure uptime for their users without relying on a third-party network of service providers can add their own in-house providers.
 
-[Incentivizing Service Providers](https://app.gitbook.com/o/HJYdCbcd7RYYZKW0R4O4/s/KAhF9NG15l7CNPFvVH7w/overview/obi-service-providers/incentivizing-service-providers)
+[incentivizing-service-providers.md](incentivizing-service-providers.md "mention")
