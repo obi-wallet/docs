@@ -54,8 +54,8 @@ Obi **Fast Travel** lets you get whatever you want in 2 clicks. Thanks to Signet
 
 **Safe Sign-In** brings you a one-click login experience that is still safe. If anyone – yourself included – tries to spend too much or do something dangerous, your Multikey is required again.
 
-{% content-ref url="the-obi-smart-account-suite/safe-sign-in/" %}
-[safe-sign-in](the-obi-smart-account-suite/safe-sign-in/)
+{% content-ref url="the-obi-smart-account-suite/sessions/" %}
+[sessions](the-obi-smart-account-suite/sessions/)
 {% endcontent-ref %}
 
 **Party Members** are people you authorize to spend some funds. Budgets, allowances for your kids or your hot wallets, and subscription services are all great examples.

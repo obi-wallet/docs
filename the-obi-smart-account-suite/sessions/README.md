@@ -2,7 +2,7 @@
 description: One-click sign-in with advanced security protections.
 ---
 
-# 💂 Anti-Cheat Sign-in
+# ⏳ Sessions
 
 Session keys are temporarily authorized to act. Session keys can be limited by other rules, as well, such as allow/block lists and spend limits, and are not able to take admin actions such as updating owners, extending their own lifetime, or creating other permissions. They can, however, destroy themselves.
 
