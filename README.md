@@ -25,6 +25,6 @@ Enterprises and users can also manage policies such as:
 
 [**Try the Public Obi All-Chain Dashboard**](<README (1).md>)
 
-**Connect Your App to Obi**
+[**Connect Your App to Obi**](dev-quickstart-connecting-your-app.md)
 
 **Build on Obi**
