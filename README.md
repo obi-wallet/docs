@@ -1,3 +1,7 @@
+---
+description: Obi Public Docs v0.3
+---
+
 # Obi: Cross-Chain User Management
 
 **Obi is an all-chain, integrated smart account solution.**
