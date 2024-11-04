@@ -3,7 +3,6 @@
 * [Obi Public Docs](README.md)
 * [Quickstart: Using Obi](<README (1).md>)
 * [🔵 Overview of the Obi Suite](overview-of-the-obi-suite.md)
-* [⚡ Roadmap](fast-travel-launch-roadmap.md)
 
 ## The Obi Smart Account Suite
 
