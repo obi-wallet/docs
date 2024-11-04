@@ -1,4 +1,4 @@
-# Obi Public Docs
+# Obi: Cross-Chain User Management
 
 **Obi is an all-chain, integrated smart account solution.**
 
@@ -8,7 +8,14 @@ Enterprises can ensure their users are custodying their own funds and interactin
 
 All Obi accounts are multi-factor and cross-chain, and are compatible with all chains on any major architecture, including Bitcoin, EVM, Tendermint, Move, and Solana, without the need for setups, deployments, or installations.
 
-Enterprises and users can also manage policies, such as sessions, spend limits, recovery or inheritance beneficiaries and partners, subscriptions, and allow and block lists.
+Enterprises and users can also manage policies such as:
+
+* fees
+* sessions
+* spend limits
+* recovery or inheritance beneficiaries and partners
+* subscriptions
+* allow and block lists.
 
 [**Learn More about the Obi Stack**](overview-of-the-obi-suite.md)
 

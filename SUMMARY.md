@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Obi Public Docs](README.md)
+* [Obi: Cross-Chain User Management](README.md)
 * [Quickstart: Using Obi](<README (1).md>)
 * [🔵 Overview of the Obi Suite](overview-of-the-obi-suite.md)
 
