@@ -3,6 +3,7 @@
 * [Obi: Cross-Chain User Management](README.md)
 * [Quickstart: Using Obi](<README (1).md>)
 * [Dev Quickstart: Connecting Your App](dev-quickstart-connecting-your-app.md)
+* [Dev Quickstart: Building Multi-Chain Apps](dev-quickstart-building-multi-chain-apps.md)
 * [🔵 Overview of the Obi Suite](overview-of-the-obi-suite.md)
 
 ## The Obi Smart Account Suite
