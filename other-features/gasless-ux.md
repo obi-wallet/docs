@@ -5,6 +5,7 @@ There are several technologies which enable this:
 1. **Use of paymasters**: on EVM chains, the ERC 4337 setup allows for transaction gas fees to be covered.
 2. **Feegrant**: on Cosmos SDK chains, x/feegrant provides a similar mechanism (though with much simpler implementation), where an account can authorize its balance to be used to cover transaction fees for another account.
 3. **Fee conversion and lending**: if the context requires users to pay their own fees, they can do so in any token with a reliable price source, whether in an EVM or Cosmos SDK context. If the user has no assets, they can still transact, but their account incurs a fee debt. Note that price conversion is not available for tokens which are not established, and the debt module is not included in the scope of the current audits.
+4. **Fee payer**: on Solana, fee payer accounts abstract SOL fees into other tokens the user has available.
 
 This leaves entities (apps, DAOs, communities, etc.) the ability to decide among these situations:
 
