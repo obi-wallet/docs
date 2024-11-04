@@ -27,4 +27,4 @@ Enterprises and users can also manage policies such as:
 
 [**Connect Your App to Obi**](dev-quickstart-connecting-your-app.md)
 
-**Build on Obi**
+[**Build Multi-Chain Apps on Obi**](dev-quickstart-building-multi-chain-apps.md)
