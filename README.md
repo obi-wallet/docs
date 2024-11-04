@@ -23,7 +23,7 @@ Enterprises and users can also manage policies such as:
 
 [**Learn More about the Obi Stack**](overview-of-the-obi-suite.md)
 
-[**Try the Public Obi All-Chain Dashboard**](<README (1).md>)
+[**Try the Public Obi All-Chain Dashboard**](quickstart-using-obi.md)
 
 [**Connect Your App to Obi**](dev-quickstart-connecting-your-app.md)
 
