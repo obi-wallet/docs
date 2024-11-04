@@ -1,6 +1,6 @@
 # Dev Quickstart: Building Multi-Chain Apps
 
-The [Tunnels repository](https://github.com/rustopian/tunnels-fun) is a fully implemented client and server application built with Obi capabilities: unified cross-chain accounts, gas abstraction for frictionless user experience, bridge aggregation, and more.
+The [Tunnels repository](https://github.com/rustopian/tunnels-fun) (temporarily closed) is a fully implemented client and server application built with Obi capabilities: unified cross-chain accounts, gas abstraction for frictionless user experience, bridge aggregation, and more.
 
 Thanks to cross-chain user management, users can start on any chain and end on any other chain, without needing to onboard or pay fees along the way.
 
