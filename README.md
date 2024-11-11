@@ -1,107 +1,58 @@
-# Obi: Cross-Chain User Management
+# Obi: Cross-Chain Account and User Management
 
-Blockchain technology is gradually reshaping industries, but enterprises face significant challenges: navigating multiple chains, ensuring top-tier security, delivering seamless user experiences, and navigating regulatory issues. **Obi** is the definitive solution, with an integrated smart account system that transcends individual blockchains.
+Blockchain technology is gradually reshaping industries, but enterprises of all sizes face significant challenges: navigating multiple chains, ensuring top-tier security, delivering seamless user experiences, and navigating regulatory issues.
 
-Manage your users on all chains and provide them recovery and policy options –  without custodying their assets.
+**Obi** is the definitive solution, with an integrated smart account system that transcends individual blockchains and allows users and enterprises to take advantage of advanced recovery and policy options – all while users retain custody of their funds.
 
----
+***
 
-- **Unified Cross-Chain Platform**: One account, infinite possibilities. Obi seamlessly connects users to all major blockchains, and will support future chains without disrupting users.
-- **Standard-Setting Security**: [Multikey](the-obi-smart-account-suite/multikey/README.md) authentication eliminates single points of failure, allowing convenient and familiar user experiences protected against theft and loss.
-- **Frictionless User Experience**: One-click onboarding, transaction policies, and gasless transactions remove barriers, driving higher engagement and retention.
+* **Unified Cross-Chain Platform**: One account, infinite possibilities. Obi seamlessly connects users to all major blockchains, and will support future chains without disrupting users. Supported architecture includes:
+  * EVM – Send/Receive, Transaction Policies, Recovery, Wallet Connect
+  * Cosmos/Tendermint – Send/Receive, Transaction Policies, Recovery, Wallet Connect
+  * Solana – Send/Receive, Recovery, Wallet Connect. _Coming soon: Transaction Policies_
+  * Bitcoin – _Coming soon: Send/Receive, Recovery, Transaction Policies_
+  * Move (Aptos/Sui) – _Coming soon: Send/Receive, Recovery, Transaction Policies, Wallet Connect_
+* **Standard-Setting Security**: [Multikey](the-obi-smart-account-suite/multikey/) authentication eliminates single points of failure, allowing convenient and familiar user experiences protected against theft and loss.
+* **Frictionless User Experience**: One-click onboarding, transaction policies, and gasless transactions remove barriers, driving higher engagement and retention.
 
----
+***
 
-## Deep Dive into Obi's Innovative Features
+## Obi Setup is the Most Secure and Convenient for Users&#x20;
 
-### 1. **Multikey Authentication**
+### **Multikey Authentication**
 
-[🔒 Multikey](the-obi-smart-account-suite/multikey/README.md)
+[🔒 Multikey](the-obi-smart-account-suite/multikey/) combines biometrics, device-based keys, and cloud authentication to safeguard assets. This customizable multi-factor setup eliminates the need for vulnerable seed phrases and passwords.
 
-**The Fort Knox of Digital Security**
+***
 
-- **Holistic Security Approach**: Combines biometrics, device-based keys, and cloud authentication to safeguard assets.
-- **Mitigates Human Error**: Eliminates the need for vulnerable seed phrases and passwords.
-- **Adaptive Authentication**: Adjusts security levels based on transaction value or risk profile.
-- **Still Non-Custodial**: Users retain full control of their assets.
+### **All-Chain Signet Technology**
 
----
+[🔍 Signet](the-obi-smart-account-suite/signet/) allows users to control every chain from a single point, with universal policies including recovery, without any need for additional extensions or other software. Unlike competing chain abstraction solutions, Signet ensures Zero Added Latency™️ and zero additional gas fees.
 
-### 2. **Signet Technology**
+***
 
-[🔍 Signet](the-obi-smart-account-suite/signet/README.md)
+### **Extra Life**
 
-**Control Every Chain from a Single Point**
+[💕 Extra Life](the-obi-smart-account-suite/extra-life.md) brings users and entreprises peace of mind, allowing users to set parameters for asset transfer due to unforeseen events. If their account is inactive for the set period of time, recovery will be available. This also allows the user to eventually recover their own funds in the event that their Multikey is lost in a black swan catastrophe.
 
-- **Universal Compatibility**: Interacts seamlessly with EVM, Tendermint, Solana, Bitcoin, and Move chains. Future architectures can be added without disrupting users.
-- **Effortless Integration**: No need for additional plugins or software; works within existing infrastructures.
-- **Instant Transactions**: Zero latency and no extra gas fees ensure smooth operations.
+***
 
----
+## Obi Policies Offer New Tools to Enterprises&#x20;
 
-### 3. **Extra Life**
+### **Automatons**
 
-[💕 Extra Life](the-obi-smart-account-suite/extra-life.md)
+[🤖 Automatons](the-obi-smart-account-suite/automatons.md) are permissioned agents that are allowed to take only certain actions or act within certain limits. Automatons are designed primarily as guardrails for automated systems such as AI bots and automatic subscription pulls.
 
-**Peace of Mind for Users and Enterprises**
+***
 
-- **Advanced Recovery Options**: Supports social recovery, biometric re-authentication, and more.
-- **Inheritance and Continuity**: Allows users to set parameters for asset transfer in unforeseen events.
-- **Disaster Resilience**: Safeguards against loss due to device theft, damage, or loss.
+### **Party Members and Allowances**
 
----
+[🧙‍♂️ Party Members](the-obi-smart-account-suite/party-members/) can participate in accounts with permissions policies and spending limits which keep their behavior within acceptable bounds. Similar to Automaton permissions, Party Members allows for budget, subscription, and treasury management with full policy auditability.
 
-### 4. **Automatons and Sessions**
+***
 
-- [🤖 Automatons](the-obi-smart-account-suite/automatons.md)
-- [⏳ Sessions](the-obi-smart-account-suite/sessions/README.md)
+[**Try the Public Obi All-Chain Dashboard Now!**](quickstart-using-obi.md)
 
-**Efficiency Meets Security**
+Developers: [**Connect Your App to Obi**](dev-quickstart-connecting-your-app.md)
 
-- **Delegated Authority**: Assign specific permissions to bots or applications for routine tasks.
-- **Session-Based Controls**: Limit access scope and duration to minimize risk.
-- **Enhanced Productivity**: Automate operations without compromising on security.
-
----
-
-### 5. **Party Members and Allowances**
-
-[🧙‍♂️ Party Members](the-obi-smart-account-suite/party-members/README.md)
-
-**Collaborative Control**
-
-- **Granular Permissions**: Define access levels and spending limits for team members or departments.
-- **Subscription and Payment Management**: Streamline recurring transactions with full oversight.
-- **Audit Trails**: Maintain transparency and accountability with detailed transaction histories.
-
----
-
-## Obi's Unique Advantages
-
-### Seamless Integration
-
-- **One-Click Integration**: Use Obi in your app without any special integration work.
-- **White-Label Options**: Customize the Obi experience to align with your brand identity.
-
----
-
-### Regulatory Compliance
-
-- **Adherence to Standards**: Uses WebAuthN, ePassports, and other accepted standards.
-- **Insurability**: Meets stringent security requirements, facilitating easier insurance underwriting.
-
----
-
-### Scalability and Future-Readiness
-
-- **Modular Design**: Allows for seamless updates and feature additions without disrupting services.
-- **Blockchain Agnostic**: Positioned to integrate with emerging blockchain technologies.
-- **Future-Proof Encryption**: Upgradeable encryption keeps user funds secure even as cryptography advances.
-
----
-
-[**Try the Public Obi All-Chain Dashboard**](quickstart-using-obi.md)
-
-[**Connect Your App to Obi**](dev-quickstart-connecting-your-app.md)
-
-[**Build Multi-Chain Apps on Obi**](dev-quickstart-building-multi-chain-apps.md)
+Developers: [**Build Multi-Chain Apps on Obi**](dev-quickstart-building-multi-chain-apps.md)
