@@ -15,6 +15,8 @@ Blockchain technology is gradually reshaping industries, but enterprises of all 
 * **Standard-Setting Security**: [Multikey](the-obi-smart-account-suite/multikey/) authentication eliminates single points of failure, allowing convenient and familiar user experiences protected against theft and loss.
 * **Frictionless User Experience**: One-click onboarding, transaction policies, and gasless transactions remove barriers, driving higher engagement and retention.
 
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src=".gitbook/assets/image (2).png" alt="" data-size="original"></td><td></td><td><a data-footnote-ref href="#user-content-fn-1"><strong>One Account, All Chains</strong></a></td></tr><tr><td><img src=".gitbook/assets/Screenshot 2024-11-12 at 11.17.40 AM.png" alt="" data-size="original"></td><td></td><td><strong>Customizable Multi-Factor Setup</strong></td></tr></tbody></table>
+
 ***
 
 ## Obi Setup is the Most Secure and Convenient for Users&#x20;
@@ -56,3 +58,5 @@ Blockchain technology is gradually reshaping industries, but enterprises of all 
 Developers: [**Connect Your App to Obi**](dev-quickstart-connecting-your-app.md)
 
 Developers: [**Build Multi-Chain Apps on Obi**](dev-quickstart-building-multi-chain-apps.md)
+
+[^1]: 
