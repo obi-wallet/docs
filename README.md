@@ -8,21 +8,13 @@ Ethereum chains, Cosmos chains, [Bitcoin, Solana, Move](#user-content-fn-1)[^1] 
 
 To make an account, simply click **Passkey** in the account wizard.
 
+If you don't like Passkeys or are using a system without modern Passkey support, you can select **Cloud Key** as an alternative primary key. Google Drive is currently supported, with more providers coming soon.
+
 **CAUTION: Do not use Incognito or Private mode for this step, or your Passkey may not be saved by your local system. This may make wallet recovery difficult later.**
 
-<figure><img src=".gitbook/assets/Screenshot 2024-03-22 at 7.35.54 PM.png" alt=""><figcaption><p>If you don't like using Passkeys, more primary key options are coming soon.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2024-03-22 at 7.35.54 PM.png" alt=""><figcaption></figcaption></figure>
 
 Your device will prompt you to authenticate with your local Passkey – meaning Face ID, Touch ID, Windows Hello, or another typical system prompt.
-
-### **Buying Assets with Ethereum**
-
-Use the Fast Travel (FT) tab to select assets you can easily obtain using an ETH deposit. Deposits from centralized exchanges work too!
-
-After you select an asset and an amount you want, you'll see your very own address. Depositing ETH assets here will Fast Travel them right into the asset you want, in your account.
-
-<figure><img src=".gitbook/assets/Screenshot 2024-03-22 at 7.55.17 PM.png" alt=""><figcaption></figcaption></figure>
-
-If you need assistance with a Fast Travel transaction, ask for help in the [Obi Telegram group](https://t.me/obi\_money). Never send anyone assets directly or give anyone access to your account.
 
 ### **Buying Assets with Bank/Credit Card**
 
