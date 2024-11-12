@@ -1,6 +1,6 @@
 # Allowances: Hot Wallets, Budgets, and Subscriptions
 
-A [spend limit](../../glossary.md#spendlimit) has multiple uses. Obi [signet](../signet/ "mention") can assist in signature finalization for an authorized user if a spend limit [abstraction rule](../../glossary.md#abstraction-rule) applies.
+A [spend limit](../../../glossary.md#spendlimit) has multiple uses. Obi [signet](../signet/ "mention") can assist in signature finalization for an authorized user if a spend limit [abstraction rule](../../../glossary.md#abstraction-rule) applies.
 
 ### Examples:
 

@@ -1,33 +1,33 @@
 # Table of contents
 
-* [Obi: Cross-Chain Account and User Management](README.md)
-* [Quickstart: Using Obi](quickstart-using-obi.md)
-* [Dev Quickstart: Connecting Your App](dev-quickstart-connecting-your-app.md)
-* [Dev Quickstart: Building Multi-Chain Apps](dev-quickstart-building-multi-chain-apps.md)
-* [🔵 Overview of the Obi Suite](overview-of-the-obi-suite.md)
+## FOR USERS <a href="#users" id="users"></a>
 
-## The Obi Smart Account Suite
+* [Quickstart: Using Obi](README.md)
 
-* [🔒 Multikey](the-obi-smart-account-suite/multikey/README.md)
-  * [🎣 Preventing Phishing](the-obi-smart-account-suite/multikey/preventing-phishing.md)
-  * [📲 SMS and Other Web2 Providers](the-obi-smart-account-suite/multikey/sms-and-other-web2-providers.md)
-  * [💕 Final Recovery](the-obi-smart-account-suite/multikey/final-recovery.md)
-* [🔍 Signet](the-obi-smart-account-suite/signet/README.md)
-  * [Draft Signet Whitepaper](the-obi-smart-account-suite/signet/draft-signet-whitepaper.md)
-* [🏇 Fast Travel](the-obi-smart-account-suite/fast-travel/README.md)
-  * [Technical Overview of Fast Travel](the-obi-smart-account-suite/fast-travel/technical-overview-of-fast-travel.md)
-* [💕 Extra Life](the-obi-smart-account-suite/extra-life.md)
-* [🤖 Automatons](the-obi-smart-account-suite/automatons.md)
-* [⏳ Sessions](the-obi-smart-account-suite/sessions/README.md)
-  * [Threshold Escalation](the-obi-smart-account-suite/sessions/threshold-escalation.md)
-* [🧙‍♂️ Party Members](the-obi-smart-account-suite/party-members/README.md)
-  * [Allowances: Hot Wallets, Budgets, and Subscriptions](the-obi-smart-account-suite/party-members/allowances-hot-wallets-budgets-and-subscriptions.md)
-  * [Allow/Block/Delay Lists](the-obi-smart-account-suite/party-members/allow-block-delay-lists.md)
+## FOR BUILDERS <a href="#builders" id="builders"></a>
+
+* [Obi: Cross-Chain Account and User Management](builders/readme.md)
+* [Dev Quickstart: Connecting Your App](builders/dev-quickstart-connecting-your-app.md)
+* [Dev Quickstart: Building Multi-Chain Apps](builders/dev-quickstart-building-multi-chain-apps.md)
+* [🔵 The Obi Smart Account Suite](builders/obi-smart-account-suite/README.md)
+  * [🔒 Multikey](builders/obi-smart-account-suite/multikey/README.md)
+    * [🎣 Preventing Phishing](builders/obi-smart-account-suite/multikey/preventing-phishing.md)
+    * [📲 SMS and Other Web2 Providers](builders/obi-smart-account-suite/multikey/sms-and-other-web2-providers.md)
+    * [💕 Final Recovery](builders/obi-smart-account-suite/multikey/final-recovery.md)
+  * [🔍 Signet](builders/obi-smart-account-suite/signet/README.md)
+    * [Draft Signet Whitepaper](builders/obi-smart-account-suite/signet/draft-signet-whitepaper.md)
+  * [💕 Extra Life](builders/obi-smart-account-suite/extra-life.md)
+  * [🤖 Automatons](builders/obi-smart-account-suite/automatons.md)
+  * [⏳ Sessions](builders/obi-smart-account-suite/sessions/README.md)
+    * [Threshold Escalation](builders/obi-smart-account-suite/sessions/threshold-escalation.md)
+  * [🧙‍♂️ Party Members](builders/obi-smart-account-suite/party-members/README.md)
+    * [Allowances: Hot Wallets, Budgets, and Subscriptions](builders/obi-smart-account-suite/party-members/allowances-hot-wallets-budgets-and-subscriptions.md)
+    * [Allow/Block/Delay Lists](builders/obi-smart-account-suite/party-members/allow-block-delay-lists.md)
+  * [🧩 Obi Stack Overview](builders/obi-smart-account-suite/obi-stack-overview.md)
 
 ## Smart Account Features & Architecture
 
 * [🔍 General Obi Features](smart-account-features-and-architecture/what-is-obi-features-overview.md)
-* [🧩 Obi Stack Overview](smart-account-features-and-architecture/obi-stack-overview.md)
 * [📜 Smart Account Design Philosophy](smart-account-features-and-architecture/smart-account-design-philosophy.md)
 * [🏗️ Smart Contract Architecture & Flow](smart-account-features-and-architecture/smart-contract-architecture-and-flow.md)
 
