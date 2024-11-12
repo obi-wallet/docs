@@ -14,9 +14,9 @@ If you don't like Passkeys or are using a system without modern Passkey support,
 
 **CAUTION: Do not use Incognito or Private mode for this step, or your Passkey may not be saved by your local system. This may make wallet recovery difficult later.**
 
-<figure><img src=".gitbook/assets/Screenshot 2024-03-22 at 7.35.54 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Your device will prompt you to authenticate with your local Passkey – meaning Face ID, Touch ID, Windows Hello, or another typical system prompt.
+If you select Passkey, your device will prompt you to authenticate with your local Passkey – meaning Face ID, Touch ID, Windows Hello, or another typical system prompt. If you select Cloud Key, your cloud provider will open in another window or tab for authentication.
 
 ### **Buying Assets with Bank/Credit Card**
 
@@ -34,7 +34,7 @@ For Ethereum and EVM chains such as Arbitrum, Optimisim, Polygon, Base, Avalanch
 
 For Cosmos chains, your address will be similar, but not identical.
 
-![](<.gitbook/assets/Screenshot 2024-03-22 at 7.39.02 PM.png>)![](<.gitbook/assets/Screenshot 2024-03-22 at 7.39.54 PM.png>)
+<figure><img src=".gitbook/assets/Screenshot 2024-11-12 at 12.31.47 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### **Sending Assets**
 
@@ -62,6 +62,6 @@ When you start transactions in the connected application, a signing prompt will 
 
 ### Enabling Extra Life
 
-Extra Life's advanced non-custodial account recovery is in testing and will be available in the UI soon.
+Extra Life's advanced non-custodial account recovery and inheritance is in testing and will be available in the UI soon.
 
 [^1]: Some chains are not yet available in the public UI. But as soon as they're released, you'll have immediate access to them.
