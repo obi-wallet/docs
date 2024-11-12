@@ -1,5 +1,7 @@
 # Quickstart: Using Obi
 
+### _Building with Obi? See the Builder's Intro:_ [builders](builders/ "mention")
+
 ### Creating an Account
 
 Obi allows the simplest account creation of any wallet. Not only do you simply use a Passkey – which some other wallets do, too – you only have to do this once in order to have an account on all chains.

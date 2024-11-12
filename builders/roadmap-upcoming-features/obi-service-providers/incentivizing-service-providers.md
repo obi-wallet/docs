@@ -22,4 +22,4 @@ Note that "Obi Token Stakers" can refer to any sort of voting or delegation mech
 
 Likewise, "Staking Network" can refer to any appropriate network where Obi accounts live.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-20 at 11.19.09 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-20 at 11.19.09 AM.png" alt=""><figcaption></figcaption></figure>

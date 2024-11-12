@@ -24,42 +24,31 @@
     * [Allowances: Hot Wallets, Budgets, and Subscriptions](builders/obi-smart-account-suite/party-members/allowances-hot-wallets-budgets-and-subscriptions.md)
     * [Allow/Block/Delay Lists](builders/obi-smart-account-suite/party-members/allow-block-delay-lists.md)
   * [🧩 Obi Stack Overview](builders/obi-smart-account-suite/obi-stack-overview.md)
-
-## Smart Account Features & Architecture
-
-* [🔍 General Obi Features](smart-account-features-and-architecture/what-is-obi-features-overview.md)
-* [📜 Smart Account Design Philosophy](smart-account-features-and-architecture/smart-account-design-philosophy.md)
-* [🏗️ Smart Contract Architecture & Flow](smart-account-features-and-architecture/smart-contract-architecture-and-flow.md)
-
-## Other Features
-
-* [⛽ Gasless UX](other-features/gasless-ux.md)
-
-## Roadmap Features
-
-* [🔧 Duress Mode](roadmap-features/duress-mode.md)
-* [📳 Security Notifications and Lockdowns](roadmap-features/security-notifications-and-lockdowns.md)
-* [✋ Global Transaction Limit (Sanity Limit)](roadmap-features/global-transaction-limit-sanity-limit.md)
-* [🌐 Obi Service Providers](roadmap-features/obi-service-providers/README.md)
-  * [Incentivizing Service Providers](roadmap-features/obi-service-providers/incentivizing-service-providers.md)
-
-## Appendices
-
-* [🥇 Obi's Unique Advantages](appendices/obis-unique-advantages.md)
-* [🔢 Multikey Attack & Loss Vectors](appendices/multikey-attack-and-loss-vectors/README.md)
-  * [Passkey](appendices/multikey-attack-and-loss-vectors/passkey.md)
-  * [Cloud Key](appendices/multikey-attack-and-loss-vectors/cloud-key.md)
-  * [SMS Key](appendices/multikey-attack-and-loss-vectors/sms-key.md)
-  * [Telegram Key](appendices/multikey-attack-and-loss-vectors/telegram-key.md)
-  * [WhatsApp Key](appendices/multikey-attack-and-loss-vectors/whatsapp-key.md)
-  * [Social Recovery Key](appendices/multikey-attack-and-loss-vectors/social-recovery-key.md)
-  * [Email Recovery Key](appendices/multikey-attack-and-loss-vectors/email-recovery-key.md)
-  * [Ledger Hardware Key](appendices/multikey-attack-and-loss-vectors/ledger-hardware-key.md)
-  * [Map Points Key](appendices/multikey-attack-and-loss-vectors/map-points-key.md)
-  * [NFC Key](appendices/multikey-attack-and-loss-vectors/nfc-key.md)
-  * [Major 2 Key Loss Vectors and Mitigations](appendices/multikey-attack-and-loss-vectors/major-2-key-loss-vectors-and-mitigations.md)
-  * [Major 2 Key Attack Vectors and Mitigations](appendices/multikey-attack-and-loss-vectors/major-2-key-attack-vectors-and-mitigations.md)
-  * [“Unlocked Obi Theft” Attack](appendices/multikey-attack-and-loss-vectors/unlocked-obi-theft-attack.md)
+  * [⛽ Gasless UX](builders/obi-smart-account-suite/gasless-ux.md)
+  * [🔍 General Obi Features](builders/obi-smart-account-suite/what-is-obi-features-overview.md)
+  * [📜 Smart Account Design Philosophy](builders/obi-smart-account-suite/smart-account-design-philosophy.md)
+  * [🏗️ Smart Contract Architecture & Flow](builders/obi-smart-account-suite/smart-contract-architecture-and-flow.md)
+* [🛣️ Roadmap: Upcoming Features](builders/roadmap-upcoming-features/README.md)
+  * [🔧 Duress Mode](builders/roadmap-upcoming-features/duress-mode.md)
+  * [📳 Security Notifications and Lockdowns](builders/roadmap-upcoming-features/security-notifications-and-lockdowns.md)
+  * [✋ Global Transaction Limit (Sanity Limit)](builders/roadmap-upcoming-features/global-transaction-limit-sanity-limit.md)
+  * [🌐 Obi Service Providers](builders/roadmap-upcoming-features/obi-service-providers/README.md)
+    * [Incentivizing Service Providers](builders/roadmap-upcoming-features/obi-service-providers/incentivizing-service-providers.md)
+* [🥇 Obi's Unique Advantages](builders/obis-unique-advantages.md)
+* [🔢 Multikey Attack & Loss Vectors](builders/multikey-attack-and-loss-vectors/README.md)
+  * [Passkey](builders/multikey-attack-and-loss-vectors/passkey.md)
+  * [Cloud Key](builders/multikey-attack-and-loss-vectors/cloud-key.md)
+  * [SMS Key](builders/multikey-attack-and-loss-vectors/sms-key.md)
+  * [Telegram Key](builders/multikey-attack-and-loss-vectors/telegram-key.md)
+  * [WhatsApp Key](builders/multikey-attack-and-loss-vectors/whatsapp-key.md)
+  * [Social Recovery Key](builders/multikey-attack-and-loss-vectors/social-recovery-key.md)
+  * [Email Recovery Key](builders/multikey-attack-and-loss-vectors/email-recovery-key.md)
+  * [Ledger Hardware Key](builders/multikey-attack-and-loss-vectors/ledger-hardware-key.md)
+  * [Map Points Key](builders/multikey-attack-and-loss-vectors/map-points-key.md)
+  * [NFC Key](builders/multikey-attack-and-loss-vectors/nfc-key.md)
+  * [Major 2 Key Loss Vectors and Mitigations](builders/multikey-attack-and-loss-vectors/major-2-key-loss-vectors-and-mitigations.md)
+  * [Major 2 Key Attack Vectors and Mitigations](builders/multikey-attack-and-loss-vectors/major-2-key-attack-vectors-and-mitigations.md)
+  * [“Unlocked Obi Theft” Attack](builders/multikey-attack-and-loss-vectors/unlocked-obi-theft-attack.md)
 
 ***
 
